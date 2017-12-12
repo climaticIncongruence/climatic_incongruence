@@ -1,0 +1,169 @@
+Name_CC,Rank,Score,Cluster,SZ
+Conaglen,CC,1,1,SW
+Ard Trilleachan,CC,2,1,SW
+Gleann Fuar,CC,3,1,SW
+Allt Coire Bhiochair,CC,4,1,SW
+Dubh Uisge,CC,5,1,SW
+An Slochd,CC,6,1,SW
+Glen Falloch,CC,7,1,SC
+Gleann Sron a Chreagain,CC,8,1,SW
+Loch Dochard,CC,9,1,SW
+Allt Chaorunn,CC,10,1,SW
+Allt Mheuran,CC,11,1,SW
+South Loch Arkaig,CC,12,1,SW
+Easan Dorcha,CC,13,1,NC
+Loch Leven,CC,14,1,SW
+Loch Clair,CC,15,1,NW
+Loch Hourn,CC,16,1,NC
+Glen Gour,CC,17,1,SW
+Glen Ure,CC,18,1,SW
+Beinn Eighe,CC,19,1,NW
+Doire Darach,CC,20,1,SW
+Achnashellach,CC,21,1,NC
+Glen Mallie,CC,22,1,SW
+Shieldaig,CC,23,1,NW
+Glen Strae,CC,24,1,SW
+Crannach,CC,25,1,SW
+Allt Broighleachan,CC,26,1,SC
+Glen Loyne,CC,27,1,SW
+Rhiddoroch,CC,28,2,N
+Bunloyne,CC,29,2,SW
+Glen Cannich,CC,30,2,NC
+Ardessie,CC,31,2,NW
+Achnasaul,CC,32,2,SW
+Glen Loy,CC,33,2,SW
+Coir a' Ghamna,CC,34,2,NW
+Loch Shiel,CC,35,3,SW
+Callop River,CC,36,3,SW
+Glen Barisdale,CC,37,3,NC
+Glen Nevis,CC,38,3,SW
+Glen Kinglass,CC,39,3,SW
+Lochourn River,CC,40,3,NC
+Glen Scaddle,CC,41,3,SW
+Coille Coire Chuilc,CC,42,3,SC
+Strath Oykel,CC,43,4,N
+Glen Einig,CC,44,4,N
+Black Wood of Rannoch,CC,45,4,SC
+Achnaconeran,CC,46,4,SW
+Glenmore,CC,47,4,EC
+Glen Affric,CC,48,4,NC
+Cougie,CC,49,4,SW
+Meggernie,CC,50,4,SC
+Guisachan,CC,51,4,SW
+Dundreggan,CC,52,4,SW
+Glen Strathfarrar,CC,53,4,NC
+Amat,CC,54,4,NC
+Strath Vaich,CC,55,4,N
+Loch Maree Islands,CC,56,5,NW
+Glen Buck,CC,57,5,SW
+Glen Garry,CC,58,5,SW
+Achlain,CC,59,5,SW
+Ceannacroc,CC,60,5,SW
+Attadale,CC,61,5,NC
+Taodail,CC,62,5,NC
+Dark Mile,CC,63,5,SW
+Glen Tromie,CC,64,6,EC
+Glen Avon,CC,65,6,NE
+Glen Feshie,CC,66,6,EC
+Glen Derry,CC,67,6,EC
+Allt Cul,CC,68,6,NE
+Glen Lui,CC,69,6,NE
+Baddengorm,CC,70,6,EC
+Crathie,CC,71,6,NE
+Glen Quoich,CC,72,7,NE
+Ballochbuie,CC,73,7,NE
+Rothiemurchus,CC,74,7,EC
+Glen Ferrick,CC,75,7,NE
+Breda,CC,76,7,NE
+Kinveachy,CC,77,7,NE
+Abernethy,CC,78,7,EC
+Glen Brown,CC,79,7,NE
+Creag Ghiubhais,CC,80,7,NE
+Carn Na Loinne,CC,81,7,EC
+Lochindorb,CC,82,7,EC
+Torphantrick,CC,83,7,NE
+Glen Tanar,CC,84,7,NE
+Conaglen,SZ,1,1,SW
+Ard Trilleachan,SZ,2,1,SW
+Gleann Fuar,SZ,3,1,SW
+Allt Coire Bhiochair,SZ,4,1,SW
+Dubh Uisge,SZ,5,1,SW
+An Slochd,SZ,6,1,SW
+Glen Falloch,SZ,37,1,SC
+Gleann Sron a Chreagain,SZ,7,1,SW
+Loch Dochard,SZ,8,1,SW
+Allt Chaorunn,SZ,9,1,SW
+Allt Mheuran,SZ,10,1,SW
+South Loch Arkaig,SZ,11,1,SW
+Easan Dorcha,SZ,48,1,NC
+Loch Leven,SZ,12,1,SW
+Loch Clair,SZ,42,1,NW
+Loch Hourn,SZ,49,1,NC
+Glen Gour,SZ,13,1,SW
+Glen Ure,SZ,14,1,SW
+Beinn Eighe,SZ,43,1,NW
+Doire Darach,SZ,15,1,SW
+Achnashellach,SZ,50,1,NC
+Glen Mallie,SZ,16,1,SW
+Shieldaig,SZ,44,1,NW
+Glen Strae,SZ,17,1,SW
+Crannach,SZ,18,1,SW
+Allt Broighleachan,SZ,38,1,SC
+Glen Loyne,SZ,19,1,SW
+Rhiddoroch,SZ,59,2,N
+Bunloyne,SZ,20,2,SW
+Glen Cannich,SZ,51,2,NC
+Ardessie,SZ,45,2,NW
+Achnasaul,SZ,21,2,SW
+Glen Loy,SZ,22,2,SW
+Coir a' Ghamna,SZ,46,2,NW
+Loch Shiel,SZ,23,3,SW
+Callop River,SZ,24,3,SW
+Glen Barisdale,SZ,52,3,NC
+Glen Nevis,SZ,25,3,SW
+Glen Kinglass,SZ,26,3,SW
+Lochourn River,SZ,53,3,NC
+Glen Scaddle,SZ,27,3,SW
+Coille Coire Chuilc,SZ,39,3,SC
+Strath Oykel,SZ,60,4,N
+Glen Einig,SZ,61,4,N
+Black Wood of Rannoch,SZ,40,4,SC
+Achnaconeran,SZ,28,4,SW
+Glenmore,SZ,63,4,EC
+Glen Affric,SZ,54,4,NC
+Cougie,SZ,29,4,SW
+Meggernie,SZ,41,4,SC
+Guisachan,SZ,30,4,SW
+Dundreggan,SZ,31,4,SW
+Glen Strathfarrar,SZ,55,4,NC
+Amat,SZ,56,4,NC
+Strath Vaich,SZ,62,4,N
+Loch Maree Islands,SZ,47,5,NW
+Glen Buck,SZ,32,5,SW
+Glen Garry,SZ,33,5,SW
+Achlain,SZ,34,5,SW
+Ceannacroc,SZ,35,5,SW
+Attadale,SZ,57,5,NC
+Taodail,SZ,58,5,NC
+Dark Mile,SZ,36,5,SW
+Glen Tromie,SZ,64,6,EC
+Glen Avon,SZ,72,6,NE
+Glen Feshie,SZ,65,6,EC
+Glen Derry,SZ,66,6,EC
+Allt Cul,SZ,73,6,NE
+Glen Lui,SZ,74,6,NE
+Baddengorm,SZ,67,6,EC
+Crathie,SZ,75,6,NE
+Glen Quoich,SZ,76,7,NE
+Ballochbuie,SZ,77,7,NE
+Rothiemurchus,SZ,68,7,EC
+Glen Ferrick,SZ,78,7,NE
+Breda,SZ,79,7,NE
+Kinveachy,SZ,80,7,NE
+Abernethy,SZ,69,7,EC
+Glen Brown,SZ,81,7,NE
+Creag Ghiubhais,SZ,82,7,NE
+Carn Na Loinne,SZ,70,7,EC
+Lochindorb,SZ,71,7,EC
+Torphantrick,SZ,83,7,NE
+Glen Tanar,SZ,84,7,NE
