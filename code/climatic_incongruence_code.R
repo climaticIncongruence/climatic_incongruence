@@ -9,7 +9,7 @@ library(cowplot)
 library(parallel)
 
 ####%%%%% Cluster analysis
-clim <- read.csv("../data/Whittet_et_al_dat.csv")
+clim <- read.csv("../data/clim_inc_dat.csv")
 climVar <- clim[, 5:17] 
 rownames(climVar) <- clim$Population
 climDist <- dist(climVar)
