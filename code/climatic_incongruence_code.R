@@ -1,6 +1,3 @@
-### This script contains the code to reproduce the results presented in Whittet et al. (2017)
-### Copyleft (or the ones to blame): R. Whittet & L.M. Carvalho, 2017.
-### code maintainer : LM Carvalho (lmax.procc@gmail.com)
 
 #### Load required packages
 library(ggplot2)
